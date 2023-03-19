@@ -1,0 +1,15 @@
+Task 3: https://sensing.konicaminolta.us/us/blog/identifying-color-differences-using-l-a-b-or-l-c-h-coordinates/
+
+apple1 = (176, 63, 81)
+apple2 = (185, 77, 89)
+
+Answer:
+Apple 1
+L = 43.31
+A = 47.63
+B = 14.12
+
+Apple 2
+L = 47.34
+A = 44.58
+B = 15.16

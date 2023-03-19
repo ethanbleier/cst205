@@ -1,0 +1,20 @@
+126
+81
+251
+#7E51FB
+
+
+https://www.colorhexa.com/7E51FB
+# In a RGB color space, hex #7e51fb is composed of 49.4% red, 31.8% green and 98.4% blue. Whereas in # a CMYK color space, it is composed of 49.8% cyan, 67.7% magenta, 0% yellow and 1.6% black. It has a # hue angle of 255.9 degrees, a saturation of 95.5% and a lightness of 65.1%. #7e51fb color hex could # be obtained by blending #fca2ff with #0000f7. Closest websafe color is: #6666ff.
+
+
+
+
+for ((n=0; n<3; n++));
+  do echo $((RANDOM % 255));
+  done > color.txt
+
+
+This little chunk of code basically runs 3 times and gets 3 random values 0-255 and places them in the color.txt file. 
+"done" ends the while loop
+The code has the purpose of generating random RGB combos

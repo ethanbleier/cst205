@@ -1,0 +1,13 @@
+Double Negative - task 1
+I don't understand the question but I know
+this code will negate the image by taking 
+the 'negatives' of the original
+
+from PIL import Image
+im2 = Image.open('images/beach.jpg')
+
+negative_list = [(255-p[0], 255-p[1], 255-p[2])
+                            for p in im2.getdata()]
+
+im2.putdata(negative_list)
+im2.show()
