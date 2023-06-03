@@ -1,2 +1,3 @@
 # cst205
-Garbage-y labwork for cst205 instructed by avner biblarz (goat)
+Labwork for CSUMB: CST 205 (fall 2022)
+MIT Ethan Bleier
